@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d315e563-7ce5-46f8-a4bc-9c177b14c45f" name="Default Changelist" comment="change to Todos">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ToDoList/Todos.class" afterDir="false" />
+    <list default="true" id="d315e563-7ce5-46f8-a4bc-9c177b14c45f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoList/Todos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoList/Todos.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Todos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todos.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,9 +21,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Todos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="252">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#27#51#0" expanded="true" />
               </folding>
             </state>
@@ -137,7 +138,7 @@
       <updated>1561489594862</updated>
       <workItem from="1561489606569" duration="1143000" />
       <workItem from="1561492475647" duration="10063000" />
-      <workItem from="1561842377462" duration="6087000" />
+      <workItem from="1561842377462" duration="13267000" />
     </task>
     <task id="LOCAL-00001" summary="First try for to do list">
       <created>1561493296904</created>
@@ -146,11 +147,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561493296904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change to Todos">
+      <created>1561891861644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561891861644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17293000" />
+    <option name="totallyTimeSpent" value="24473000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,9 +171,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="707" y="18" width="659" height="750" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05958132" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10628019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -174,7 +181,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917355" weight="0.2972973" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49758455" visible="true" weight="0.2972973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,8 +190,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32882884" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32882884" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008264" side_tool="true" weight="0.46341464" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32882884" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5024155" side_tool="true" weight="0.2972973" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32882884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -266,9 +273,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Todos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="252">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#27#51#0" expanded="true" />
           </folding>
         </state>
